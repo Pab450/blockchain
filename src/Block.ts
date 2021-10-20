@@ -75,6 +75,6 @@ export default class Block
      */
     public static getGenesis() : Block
     {
-        return new Block('', '', 0, 0);
+        return new this('', '', 0, 0);
     }
 }
