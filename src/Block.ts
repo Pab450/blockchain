@@ -28,12 +28,12 @@ export default class Block
     /**
      * 
      */
-	private nonce: number;
+    private nonce: number;
 
     /**
      *
      */
-	private difficulty: number;
+    private difficulty: number;
 
     /**
      * 
@@ -71,7 +71,7 @@ export default class Block
 
     /**
      * 
-     * @returns 
+     * @returns
      */
     public static getGenesis() : Block
     {
