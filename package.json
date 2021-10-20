@@ -8,10 +8,12 @@
   },
   "author": "pablo",
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "ts-node": "^10.3.0",
     "typescript": "^4.4.4"
   },
   "devDependencies": {
+    "@types/crypto-js": "^4.0.2",
     "nodemon": "^2.0.13"
   }
 }
